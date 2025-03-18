@@ -5,6 +5,11 @@
 - sidebar
 - 커밋 푸시
 
+## search 개발
+
+- search
+- 커밋 푸시
+
 # 서비스 소개 페이지 추가
 
 - about.md 추가
